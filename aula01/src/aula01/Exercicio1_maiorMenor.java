@@ -38,6 +38,7 @@ public class Exercicio1_maiorMenor {
 			if(vetor[i] < aux) {
 				aux = vetor[i];
 			}
+
 		}
 		return aux;
 	}
